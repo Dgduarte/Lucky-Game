@@ -50,4 +50,4 @@ Toda a interface, regras, mensagens de erro e opções se adaptam automaticament
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/jogo-da-sorte.git
+   git clone https://github.com/dgduarte/jogo-da-sorte.git
